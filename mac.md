@@ -12,4 +12,4 @@ fetch = downloading all history from remote branches
 pull = updatint curren branch with new updates from commits, it is the combination of fetch and merge. 
 merge = combining current branch with that of the remote branches
 7. What is a merge conflict? a merge conflict is when you have branches that that have competing commits, that is generally changes on the same lines, or when a file that has been edited by someone, is, in a seperate branch,  deleted by someone. 
-8. How do you resolve a merge conflict? you must edit the files and lines in question and keep the code that you want introduced t the final merge. 
+8. How do you resolve a merge conflict? you must edit the files and lines in question and keep the code that you want introduced into the final merge. 
